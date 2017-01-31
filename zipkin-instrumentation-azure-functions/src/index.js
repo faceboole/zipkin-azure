@@ -1,0 +1,1 @@
+module.exports.zipkinHttpHandler = require('./zipkinHandler');
