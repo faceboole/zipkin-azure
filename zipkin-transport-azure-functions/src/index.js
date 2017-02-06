@@ -1,1 +1,0 @@
-module.exports.BindingLogger = require('./BindingLogger');

@@ -1,1 +1,1 @@
-module.exports.zipkinHttpHandler = require('./zipkinHandler');
+module.exports.zipkinHttpHandler = require('./zipkinHandler').zipkinHttpHandler;
